@@ -1,1 +1,3 @@
-Hello from client
+Hello,
+
+Thanks for sharing 
